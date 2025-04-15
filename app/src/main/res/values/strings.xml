@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Book Book</string>
+
+    <!--  Автоизация -->
+    <string name="signup">Регистрация</string>
+    <string name="login">Вход</string>
+    <string name="email">Почта</string>
+    <string name="username">Никнейм</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up_hint">Все строки должны содержать минимум 6 символов</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="login_into_account">Войти</string>
+    <string name="signup_error">Не удалось создать аккаунт</string>
+    <string name="to_login_screen_first_part">Уже есть аккаунт?</string>
+    <string name="to_login_screen_second_part">Войти</string>
+    <string name="to_signup_screen_first_part">Еще нет аккаунта?</string>
+    <string name="to_signup_screen_second_part">Зарегистрироваться</string>
+
+    <!-- ИИ чат -->
+    <string name="message">Сообщение</string>
+    <string name="ai_error">Произошла ошибка</string>
+
+    <string name="buttons">Кнопки</string>
+    <string name="large_buttons">Большие кнопки</string>
+    <string name="tiny_buttons">Маленькие кнопки</string>
+    <string name="enabled_buttons">Активные кнопки</string>
+    <string name="disabled_buttons">Не активные кнопки</string>
+    <string name="basic_button_text">Нажми на меня!</string>
+
+    <string name="inputs">Инпуты</string>
+    <string name="tiny_inputs">Маленькие инпуты</string>
+    <string name="large_inputs">Большие инпуты</string>
+    <string name="sample_placeholder">Введи текст</string>
+
+
+    <string name="modals">Модалки</string>
+    <string name="show_warning_modal">Показать первую модалку</string>
+    <string name="show_confirmation_modal">Показать вторую модалку</string>
+    <string name="warning_modal_title">Предупреждение</string>
+    <string name="warning_modal_text">Это модалка для предупреждения</string>
+    <string name="warning_modal_button">Хорошо</string>
+    <string name="confirmation_modal_title">Подтверждение</string>
+    <string name="confirmation_modal_text">Это модалка для подтверждения</string>
+    <string name="confirmation_modal_confirm_button">Продолжить</string>
+    <string name="confirmation_modal_deny_button">Отмена</string>
+</resources>

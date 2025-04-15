@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581579784660",
+    "project_id": "prod-cc088",
+    "storage_bucket": "prod-cc088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581579784660:android:9acbce75c7c9c42f649641",
+        "android_client_info": {
+          "package_name": "ru.prod.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "REDACTED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

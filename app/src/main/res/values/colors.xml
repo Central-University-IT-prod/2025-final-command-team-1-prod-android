@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Main colors  -->
+    <color name="background">#FFFFFF</color>
+    <color name="secondary_background">#F2F4F5</color>
+    <color name="ternary_background">#E3E5E5</color>
+    <color name="text">#000000</color>
+    <color name="secondary_text">#72777A</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!--  Additional colors  -->
+    <color name="darkest">#5538EE</color>
+    <color name="base">#6B4EFF</color>
+    <color name="light">#9990FF</color>
+    <color name="lighter">#C6C4FF</color>
+    <color name="lightest">#E7E7FF</color>
+    <color name="error">#DE0F02</color>
+    <color name="red">#FF5247</color>
+    <color name="green">#14CC00</color>
+    <color name="yellow">#FFE600</color>
+    <color name="blue">#0099FF</color>
+
+    <!--  Banner colors  -->
+    <color name="b1c1">#1A3779</color>
+    <color name="b1c2">#0B1221</color>
+    <color name="b2c1">#0B1221</color>
+    <color name="b2c2">#481385</color>
+    <color name="b3c1">#481385</color>
+    <color name="b3c2">#0B1221</color>
+</resources>
